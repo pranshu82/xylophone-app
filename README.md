@@ -1,2 +1,2 @@
 # xylophone-app
-A \simple xylophone 
+A simple xylophone 
